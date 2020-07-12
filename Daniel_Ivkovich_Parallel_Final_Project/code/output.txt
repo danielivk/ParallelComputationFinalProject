@@ -1,0 +1,4 @@
+ID = 0	 Best Offset = 363	 Best Mutation = 85	 Score = 119.500000
+ID = 1	 Best Offset = 126	 Best Mutation = 41	 Score = 1870.100098
+ID = 2	 Best Offset = 855	 Best Mutation = 51	 Score = 269.600006
+ID = 3	 Best Offset = 975	 Best Mutation = 245	 Score = 237.399994
